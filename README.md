@@ -13,10 +13,10 @@ Whether you're hosting, moderating, or supporting behind the scenes, these guide
 - **Rounds:** Six normal questions plus one optional Bonus Round. Depending on time, play 3–6 questions.  
 - **Teams:** Four teams total. Steals occur when the main team reaches three X’s — other teams each write down one answer; if any is correct, that team steals the points. If none are correct, the playing team keeps their points.  
 - **Roles:**
-  - [Host](./docs/HOST_INSTRUCTIONS.md) – Leads the game, reads questions, keeps the energy going (does not click).  
-  - [Tech Support](./docs/TECH_SUPPORT.md) – Sets up laptop+TV, runs two windows (TV = Game Screen, Laptop = Host Controls), and clicks to reveal answers when the Host calls them.  
-  - [Moderator](./docs/MODERATOR.md) – Tracks time, monitors buzz-ins, judges answers, and helps with scoring fairness.  
-  - [Sara / Scorekeeper](./docs/GAME_OVERVIEW.md#-at-a-glance) – Tallies and announces total points each round.
+  - [Host](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/HOST_INSTRUCTIONS.md) – Leads the game, reads questions, keeps the energy going (does not click).  
+  - [Tech Support](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/TECH_SUPPORT.md) – Sets up laptop+TV, runs two windows (TV = Game Screen, Laptop = Host Controls), and clicks to reveal answers when the Host calls them.  
+  - [Moderator](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/MODERATOR.md) – Tracks time, monitors buzz-ins, judges answers, and helps with scoring fairness.  
+  - [Sara / Scorekeeper](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/GAME_OVERVIEW.md#at-a-glance) – Tallies and announces total points each round.
 
 ---
 
@@ -24,13 +24,13 @@ Whether you're hosting, moderating, or supporting behind the scenes, these guide
 
 | File | Purpose |
 |------|----------|
-| [`docs/GAME_OVERVIEW.md`](./docs/GAME_OVERVIEW.md) | Full explanation of the game structure, roles, and terminology |
-| [`docs/HOST_INSTRUCTIONS.md`](./docs/HOST_INSTRUCTIONS.md) | Complete step-by-step guide for the host |
-| [`docs/TECH_SUPPORT.md`](./docs/TECH_SUPPORT.md) | Setup and live-operation guide for Tech Support (two-window workflow) |
-| [`docs/MODERATOR.md`](./docs/MODERATOR.md) | Timing, pacing, and fairness guide |
-| [`docs/QUESTION_ANSWER_REFERENCE.md`](./docs/QUESTION_ANSWER_REFERENCE.md) | All normal and bonus round questions with point values |
-| [`game/FamilyFeudSHS.json`](./game/FamilyFeudSHS.json) | JSON version for Friendly Feud |
-| [`docs/README.md`](./docs/README.md) | Quick guide for this folder |
+| [`docs/GAME_OVERVIEW.md`](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/GAME_OVERVIEW.md) | Full explanation of the game structure, roles, and terminology |
+| [`docs/HOST_INSTRUCTIONS.md`](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/HOST_INSTRUCTIONS.md) | Complete step-by-step guide for the host |
+| [`docs/TECH_SUPPORT.md`](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/TECH_SUPPORT.md) | Setup and live-operation guide for Tech Support (two-window workflow) |
+| [`docs/MODERATOR.md`](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/MODERATOR.md) | Timing, pacing, and fairness guide |
+| [`docs/QUESTION_ANSWER_REFERENCE.md`](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/QUESTION_ANSWER_REFERENCE.md) | All normal and bonus round questions with point values |
+| [`game/FamilyFeudSHS.json`](https://github.com/coolbass04/SHS-Family-Feud/blob/main/game/FamilyFeudSHS.json) | JSON version for Friendly Feud |
+| [`docs/README.md`](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/README.md) | Quick guide for this folder |
 
 ---
 
@@ -55,9 +55,9 @@ Whether you're hosting, moderating, or supporting behind the scenes, these guide
 
 ## 💡 Getting Started
 
-1. Review [`GAME_OVERVIEW.md`](./docs/GAME_OVERVIEW.md) for a quick understanding of how everything fits together.  
-2. Hosts should read [`HOST_INSTRUCTIONS.md`](./docs/HOST_INSTRUCTIONS.md).  
-3. Moderators should review [`MODERATOR.md`](./docs/MODERATOR.md).  
+1. Review [`GAME_OVERVIEW.md`](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/GAME_OVERVIEW.md) for a quick understanding of how everything fits together.  
+2. Hosts should read [`HOST_INSTRUCTIONS.md`](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/HOST_INSTRUCTIONS.md).  
+3. Moderators should review [`MODERATOR.md`](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/MODERATOR.md).  
 4. Import `FamilyFeudSHS.json` into [Friendly Feud](https://www.famf.app/new).  
 
 When in doubt, the Moderator and Host can check the `QUESTION_ANSWER_REFERENCE.md` to confirm answers and point values.
