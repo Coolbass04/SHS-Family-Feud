@@ -1,3 +1,8 @@
+---
+layout: default
+title: SHS Family Feud – Documentation
+---
+
 # SHS Family Feud – Documentation
 
 This folder contains all of the Markdown guides and reference materials for running the SHS Department’s *Family Feud*–style team game.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: SHS Family Feud – Question & Answer Reference
+---
+
 # SHS Family Feud – Question & Answer Reference
 
 Use this as a quick guide during game play to reference all questions, answers, and point values — including both normal and bonus rounds.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: SHS Family Feud – Game Overview
+---
+
 # SHS Family Feud – Game Overview
 
 Welcome to **SHS Family Feud** — our interactive, team-based version of *Family Feud* designed for staff connection, laughter, and lighthearted competition.

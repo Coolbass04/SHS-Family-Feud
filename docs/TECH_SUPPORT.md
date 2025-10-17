@@ -1,3 +1,8 @@
+---
+layout: default
+title: SHS Family Feud – Tech Support Instructions
+---
+
 # SHS Family Feud – Tech Support Instructions
 
 You handle the **tech and screens** so the Host can focus on hosting. No public speaking needed.
@@ -17,7 +22,8 @@ You handle the **tech and screens** so the Host can focus on hosting. No public 
    - **Window A (TV):** Join the room → pick **Open Game Window** → drag this window to the TV and make it fullscreen.
    - **Window B (Laptop):** **Host/Admin** controls (load the game and run the board). Keep this only on the laptop.
 3. **Load the game**:
-   - Use `game/FamilyFeudSHS.json`.
+   - Download `docs/game/FamilyFeudSHS.json` to your laptop.
+   - In the **Host/Admin** controls on [famf.app](https://www.famf.app), click **Import/Upload** and select the downloaded JSON to load the questions.
    - Confirm all **6 questions** load as normal rounds 
 4. Test the **egg buzzers** and confirm room code visibility.
 

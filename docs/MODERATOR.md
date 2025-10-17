@@ -1,3 +1,8 @@
+---
+layout: default
+title: SHS Family Feud – Moderator Instructions
+---
+
 # SHS Family Feud – Moderator Instructions
 
 Welcome! As the **Moderator**, you help the Host keep the game running smoothly. You’re part referee, part timekeeper, and part cheerleader — keeping everyone on track and making sure the rounds flow well.

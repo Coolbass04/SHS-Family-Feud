@@ -1,3 +1,8 @@
+---
+layout: default
+title: SHS Family Feud – Host Instructions
+---
+
 # SHS Family Feud – Host Instructions
 
 Welcome! You’ve been chosen to host the SHS Family Feud–style department game — thank you! Don’t worry if you’ve never done this before — this guide will walk you through everything step-by-step.
