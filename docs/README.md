@@ -8,23 +8,23 @@ Each file here is written to be simple, clear, and ready to use by anyone — ev
 
 ## 📘 Files in This Folder
 
-### 🧭 `GAME_OVERVIEW.md`
+### 🧭 [GAME_OVERVIEW.md](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/GAME_OVERVIEW.md)
 
 Full explanation of how the game works — terminology, buzzers, team setup, round structure, and responsibilities for Host, Moderator, and Sara.
 
-### 🎤 `HOST_INSTRUCTIONS.md`
+### 🎤 [HOST_INSTRUCTIONS.md](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/HOST_INSTRUCTIONS.md)
 
 Step-by-step guide for the **Host** — includes how to run buzz-in rounds, manage X’s, handle steals, oversee the Bonus Round, and tally points.
 
-### 🧭 `MODERATOR.md`
+### 🧭 [MODERATOR.md](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/MODERATOR.md)
 
 Guide for the **Moderator** — covers timekeeping, pacing, tracking X’s, judging close answers, and running the Bonus Round timer.
 
-### 🧾 `QUESTION_ANSWER_REFERENCE.md`
+### 🧾 [QUESTION_ANSWER_REFERENCE.md](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/QUESTION_ANSWER_REFERENCE.md)
 
 Full list of all normal and bonus round questions, answers, and point values used in the SHS Family Feud game. Can be printed as a backup or manual scoring sheet.
 
-### 🖥️ `TECH_SUPPORT.md`
+### 🖥️ [TECH_SUPPORT.md](https://github.com/coolbass04/SHS-Family-Feud/blob/main/docs/TECH_SUPPORT.md)
 
 Setup and live-operation guide for the **Tech Support** role — runs the two-window workflow (Game Screen on TV, Host Controls on laptop) and clicks to reveal answers on the Host’s cue.
 
