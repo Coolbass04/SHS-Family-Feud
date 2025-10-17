@@ -69,14 +69,17 @@ After the round:
 
 ## ⚡ Bonus Round
 
-The Bonus Round is faster-paced and can be played at the end.
+The Bonus Round (Fast Money) is faster-paced and can be played at the end.
 
 1. Choose two players (either from one team or the two leading teams).
-2. The **Moderator** starts the timer — 20 seconds per player.
-3. You will ask **5 quick questions** (from the bonus section of the question sheet).
-4. Duplicate answers are **not allowed** — if a player repeats, tell them to try again.
-5. At the end, Tech Support reveals points for all 5 answers.
-6. The Moderator or Host tallies totals and announces the winner.
+2. Tech Support clicks the **Final Round** button to start each player's run.
+3. Timers are defined in the uploaded `FamilyFeudSHS.json`. If a separate timer is needed, the **Moderator** keeps time on a phone.
+4. You will ask **5 quick questions** (from the bonus section of the question sheet).
+5. Designate a **scribe** to write down each answer as the player speaks. Do not enter answers during the timer.
+6. When time ends, Tech Support enters the scribed answers into Friendly Feud.
+7. Duplicate answers are **not allowed** — if a player repeats, tell them to try again.
+8. Repeat for player 2, then Tech Support reveals points for all 5 answers.
+9. The Moderator or Host tallies totals and announces the winner.
 
 ---
 

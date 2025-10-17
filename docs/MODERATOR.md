@@ -47,9 +47,10 @@ No tech experience needed — just focus on pacing, fairness, and energy.
 
 ### Bonus Round
 
-* Start and stop the timer for each player (20 seconds each)
+* Start and stop the timer for each player (20 seconds each). Timers are set in the uploaded `FamilyFeudSHS.json`; if a separate timer is needed, keep time on your phone.
 * Enforce the “no duplicate answers” rule — if repeated, prompt the Host to ask for a new one
 * **Tech Support** controls reveals at the end of the round
+* Ensure a designated scribe is writing down each player's answers so Tech Support can enter them immediately after each run
 * Help the Host confirm scoring at the end
 
 ---

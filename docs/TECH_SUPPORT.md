@@ -21,6 +21,10 @@ You handle the **tech and screens** so the Host can focus on hosting. No public 
    - Confirm all **6 questions** load as normal rounds 
 4. Test the **egg buzzers** and confirm room code visibility.
 
+5. Optional: Watch the quick setup demo GIF for reference.
+
+![Friendly Feud setup demo](https://coolbass04.github.io/SHS-Family-Feud/docs/game/FamilyFeudSetup.gif)
+
 ---
 
 ## ▶️ During the Game
@@ -28,6 +32,15 @@ You handle the **tech and screens** so the Host can focus on hosting. No public 
 - When the Host says an answer is correct, **click that answer** on the laptop (Host Controls).
 - Reveal answers one by one as cued by the Host.
 - End of round: reveal remaining answers if the Host asks, then advance to the next round.
+
+---
+
+## ⏱️ Final Round (Fast Money)
+- Click the **Final Round** button to start each player's run.
+- Timers are defined in the uploaded `FamilyFeudSHS.json`. Do not adjust in-app. If a separate timer is needed, the **Moderator** will keep time on a phone.
+- Designate a **scribe** to write down each answer as the player speaks. Do not type during the timer.
+- When time ends, quickly **enter the scribed answers** into Friendly Feud.
+- Repeat for player 2, then **reveal points**.
 
 ---
 

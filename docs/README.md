@@ -40,6 +40,14 @@ Setup and live-operation guide for the **Tech Support** role — runs the two-wi
 
 ---
 
+## 🎬 Quick Demo
+
+See how to create a room, upload the JSON, and run basics:
+
+![Friendly Feud setup demo](https://coolbass04.github.io/SHS-Family-Feud/docs/game/FamilyFeudSetup.gif)
+
+---
+
 ## 🪄 Tips
 
 * If you’re new, start with `GAME_OVERVIEW.md` for the big picture.

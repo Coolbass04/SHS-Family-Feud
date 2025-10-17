@@ -65,9 +65,12 @@ This document explains the full game flow, terminology, and round structure. It 
 ## ⚡ Bonus Round Flow
 
 1. Two players (one from each team finalist, or from the same team) answer 5 quick questions.
-2. The **Moderator** keeps time — usually 20 seconds per player.
-3. Duplicate answers are not allowed. If repeated, the Host prompts for a new one.
-4. Points are revealed at the end.
+2. **Tech Support** clicks the **Final Round** button to start each player's run.
+3. Timers come from the uploaded `FamilyFeudSHS.json`. If a separate timer is needed, the **Moderator** keeps time on a phone.
+4. Designate a **scribe** to write down each player's answers as they speak; do not enter during the timer.
+5. When time ends, **Tech Support** enters the scribed answers into Friendly Feud; repeat for player 2.
+6. Duplicate answers are not allowed. If repeated, the Host prompts for a new one.
+7. Reveal points at the end.
 
 ---
 
