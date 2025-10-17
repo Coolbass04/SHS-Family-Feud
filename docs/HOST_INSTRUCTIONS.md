@@ -8,89 +8,116 @@ This is a low-pressure, fun way to connect with your teammates. You don’t need
 
 ## 🎤 What You’re Doing as the Host
 
-You’ll be the main person guiding the game:
+You are both the **game leader** and the **game runner.** You will:
 
-* Read the questions out loud
-* Listen to team answers
-* Reveal answers on the screen (with help from the Game Runner)
-* Keep the game moving
-* Work with the **Moderator** to watch time and decide when to slow down or speed up
-
-**You do not need to manage the game software or tech — that’s the Game Runner’s job.**
+* Display and control the [Friendly Feud](https://www.famf.app) game on the TV.
+* Read each question out loud.
+* Manage buzz-ins and keep track of which team goes first.
+* Work with the **Moderator** to manage timing, handle judgment calls, and ensure points are tallied.
+* Keep the energy fun and positive.
 
 ---
 
-## 🎯 What’s the Goal?
+## ⚙️ Setup Before Starting
 
-To guess the most popular responses to each question based on a real SHS team survey. Points are based on how many people gave the same answer. The more common the answer, the higher the points!
-
-> Example: If 42% of people said “coffee” is needed before starting the day, that answer is worth 42 points.
-
----
-
-## 📦 Game Format
-
-* **6 total questions** are pre-loaded in the Friendly Feud game.
-* Depending on time and energy, you may only use **3–6 of them.** That’s totally fine.
-* **4 teams** will be playing.
-* Each question will be played one at a time with one team answering at a time.
+1. Open [https://www.famf.app](https://www.famf.app) on your laptop.
+2. Load the `shs_game.csv` or `FamilyFeudSHS.json` file.
+3. Connect your laptop to the TV or projector.
+4. Test the **egg buzzers** — make sure they clearly show which team buzzes first.
+5. Have the **Moderator** ready with a timer and printed question sheet.
 
 ---
 
-## ✅ Standard Game Flow (per question)
+## 🏁 How the Normal Rounds Work
 
-1. **Choose a team to go first.**
+Each round follows this order:
 
-   * Alternate teams across questions.
+### 1. Show the Question
 
-2. **Read the question out loud.**
+Read the question on screen and give teams a moment to get ready. Once you finish reading, the **buzzers are live.**
 
-   * Example: “Name something you need before starting your day.”
+### 2. Buzz-In
 
-3. **The team gets to guess as many answers as they can until they get 3 wrong.**
+The first team to buzz gets to answer.
 
-   * Each incorrect guess earns an **X**.
-   * If the answers are *very* hard to guess, feel free to allow **4 Xs** (Host’s call).
+* If their answer is the **top answer**, they can **choose to play or pass.**
+* If it’s not the top answer, go to the next team to buzz.
+* If all teams have buzzed, the team with the **highest-ranking answer** plays.
 
-4. **If they don’t guess all answers:**
+### 3. Playing the Board
 
-   * Each of the other 3 teams writes down **ONE guess** as a steal attempt.
-   * The **team that writes down the highest remaining correct answer** gets the points.
-   * If no team gets a correct answer, no one gets the points.
+The playing team tries to guess the remaining answers on the board.
 
-5. **Game Runner will reveal all the correct answers** on screen (you can read them aloud too).
+* Each wrong answer earns an **X**.
+* Three X’s = turn over.
 
-6. **Move to the next question** and rotate starting teams.
+### 4. Stealing
+
+After 3 X’s, each of the other teams writes down **one steal guess.**
+
+* If a steal guess matches a remaining answer → that team **wins the round’s points.**
+* If no team gets a correct steal → the **original playing team keeps their points.**
+
+### 5. End of Round
+
+After the round:
+
+* Reveal any unrevealed answers.
+* **Sara tallies the total points** for that round.
+* Announce which team won the round and the updated totals.
+
+---
+
+## ⚡ Bonus Round
+
+The Bonus Round is faster-paced and can be played at the end.
+
+1. Choose two players (either from one team or the two leading teams).
+2. The **Moderator** starts the timer — 20 seconds per player.
+3. You will ask **5 quick questions** (from the bonus section of the question sheet).
+4. Duplicate answers are **not allowed** — if a player repeats, tell them to try again.
+5. At the end, reveal points for all 5 answers.
+6. The Moderator or Host tallies totals and announces the winner.
 
 ---
 
 ## 🧠 Things to Watch For
 
-* **Duplicate answers:** If a team repeats an answer that’s already been guessed, let them know it’s a repeat — but don’t count it as an X.
+### Normal Rounds
 
-* **Similar answers:** Use judgment! If someone says “go for a walk” and the real answer is “take a walk,” that counts. The **Moderator** can help decide.
+* Similar answers (e.g., “Take a walk” vs “Go for a walk”) — count as correct.
+* If all teams miss the steal, the playing team always keeps the points.
+* Always have the Moderator confirm time and fairness calls.
 
-* **No correct answer during steal:** If no one writes down a correct answer, no team gets the steal.
+### Bonus Round
 
-* **Run short on time?** Ask the **Moderator** how much time is left and whether to keep going or end early.
-
----
-
-## 🕹 Tips for a Great Host
-
-* Keep the tone light — jokes, playfulness, and team spirit are welcome.
-* Repeat the question once or twice to help teams think.
-* Let the Game Runner know when you’re ready to move to the next question.
-* If there’s confusion, check in with the Moderator.
+* Duplicate answers → not allowed (ask for a new one).
+* Moderator keeps the timer.
+* Host reveals answers at the end.
 
 ---
 
-## 🧾 Reference
+## 🧾 End-of-Round Recap
 
-A full list of questions and answers (with point values) is in [QUESTION_ANSWER_REFERENCE.md](./QUESTION_ANSWER_REFERENCE.md)
+After every question:
+
+* Confirm the total points earned for that round.
+* Ask **Sara** to tally and announce the cumulative totals.
+* Keep the energy fun — celebrate each team’s progress!
 
 ---
 
-You’ve got this! 🎉 Just read the questions, encourage some laughs, and help the teams have fun. The rest will fall into place.
+## 🎉 Hosting Tips
 
-Let the feud begin!
+* Keep it lighthearted — humor and cheering are encouraged.
+* Read clearly and keep the pace moving.
+* Use the Moderator’s cues on whether to move faster or slow down.
+* If there’s confusion, pause and check the printed reference.
+
+---
+
+At the end of the game, announce:
+
+* The **total points** for each team.
+* The **winning team**.
+* And finish with, “Thanks for playing SHS Family Feud!” 🎊
