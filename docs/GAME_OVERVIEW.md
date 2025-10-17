@@ -13,7 +13,7 @@ This document explains the full game flow, terminology, and round structure. It 
 * **Points:** Based on real SHS survey results, scaled to ~100 per question.
 * **Equipment:**
 
-  * One **laptop connected to a TV or projector**
+  * One **laptop connected to a TV or projector** (two-window flow: TV shows **Open Game Window**; laptop shows **Host/Admin controls**)
   * A set of **egg buzzers** (for team buzz-ins)
   * Optional printed question sheet for manual scorekeeping
 
@@ -34,9 +34,9 @@ This document explains the full game flow, terminology, and round structure. It 
 ## 🏁 Game Setup
 
 1. Divide the group into **4 teams**.
-2. Assign a **Host** and a **Moderator**.
+2. Assign a **Host**, a **Moderator**, and **Tech Support**.
 3. Make sure the **egg buzzers** are working.
-4. The Host should have the Friendly Feud game open and ready on screen.
+4. **Tech Support** loads the Friendly Feud game (use `FamilyFeudSHS.json`) and manages the two windows (TV = Game Screen, Laptop = Host Controls).
 5. The Moderator should have a timer (for bonus round) and a copy of the printed Q&A sheet.
 
 ---
@@ -55,7 +55,7 @@ This document explains the full game flow, terminology, and round structure. It 
 7. If a stealing team’s guess matches a remaining answer, they win the round’s points.
 
    * If no steal guess matches, **the original team keeps their points.**
-8. At the end of the round, **Sara tallies the points** and announces:
+8. **Tech Support reveals answers when the Host calls them.** At the end of the round, **Sara tallies the points** and announces:
 
    * The round’s total points
    * Which team currently leads
@@ -84,7 +84,8 @@ This document explains the full game flow, terminology, and round structure. It 
 
 | Role          | Responsibilities                                                         |
 | ------------- | ------------------------------------------------------------------------ |
-| **Host**      | Runs the game, reads questions, reveals answers, tracks flow             |
+| **Host**      | Leads the game, reads questions, gives verbal cues (does not click)      |
+| **Tech Support** | Sets up displays, loads game, runs two-window flow, and clicks to reveal answers on the Host’s cue |
 | **Moderator** | Keeps time, tracks X’s, judges close answers, manages bonus round timing |
 | **Sara**      | Tallies points and announces round results                               |
 

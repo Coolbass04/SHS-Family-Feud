@@ -13,7 +13,8 @@ Whether you're hosting, moderating, or supporting behind the scenes, these guide
 - **Rounds:** Six normal questions plus one optional Bonus Round. Depending on time, play 3–6 questions.  
 - **Teams:** Four teams total. Steals occur when the main team reaches three X’s — other teams each write down one answer; if any is correct, that team steals the points. If none are correct, the playing team keeps their points.  
 - **Roles:**
-  - [Host](./docs/HOST_INSTRUCTIONS.md) – Leads the game, manages buzzers, reveals answers, and keeps the energy going.  
+  - [Host](./docs/HOST_INSTRUCTIONS.md) – Leads the game, reads questions, keeps the energy going (does not click).  
+  - [Tech Support](./docs/TECH_SUPPORT.md) – Sets up laptop+TV, runs two windows (TV = Game Screen, Laptop = Host Controls), and clicks to reveal answers when the Host calls them.  
   - [Moderator](./docs/MODERATOR.md) – Tracks time, monitors buzz-ins, judges answers, and helps with scoring fairness.  
   - [Sara / Scorekeeper](./docs/GAME_OVERVIEW.md#-at-a-glance) – Tallies and announces total points each round.
 
@@ -25,9 +26,9 @@ Whether you're hosting, moderating, or supporting behind the scenes, these guide
 |------|----------|
 | [`docs/GAME_OVERVIEW.md`](./docs/GAME_OVERVIEW.md) | Full explanation of the game structure, roles, and terminology |
 | [`docs/HOST_INSTRUCTIONS.md`](./docs/HOST_INSTRUCTIONS.md) | Complete step-by-step guide for the host |
+| [`docs/TECH_SUPPORT.md`](./docs/TECH_SUPPORT.md) | Setup and live-operation guide for Tech Support (two-window workflow) |
 | [`docs/MODERATOR.md`](./docs/MODERATOR.md) | Timing, pacing, and fairness guide |
 | [`docs/QUESTION_ANSWER_REFERENCE.md`](./docs/QUESTION_ANSWER_REFERENCE.md) | All normal and bonus round questions with point values |
-| [`game/shs_game.csv`](./game/shs_game.csv) | Upload-ready CSV for Friendly Feud |
 | [`game/FamilyFeudSHS.json`](./game/FamilyFeudSHS.json) | JSON version for Friendly Feud |
 | [`docs/README.md`](./docs/README.md) | Quick guide for this folder |
 
@@ -36,7 +37,8 @@ Whether you're hosting, moderating, or supporting behind the scenes, these guide
 ## 🖥️ Tech Setup
 
 - Use **one laptop connected to a TV or projector** to display the game.  
-- The Host runs the [Friendly Feud website](https://www.famf.app) and controls the board.  
+- Use **two browser windows** at [Friendly Feud](https://www.famf.app): TV shows **Open Game Window**; laptop shows **Host/Admin** controls.  
+- **Tech Support** operates the controls (reveals answers on the Host’s cue). The **Host does not interact with the TV/computer** during gameplay.  
 - Use **egg buzzers** for the initial question buzz-ins.  
 - The Moderator tracks timing and manages judgment calls.  
 - Print the `QUESTION_ANSWER_REFERENCE.md` as a manual backup sheet if needed.
@@ -56,7 +58,7 @@ Whether you're hosting, moderating, or supporting behind the scenes, these guide
 1. Review [`GAME_OVERVIEW.md`](./docs/GAME_OVERVIEW.md) for a quick understanding of how everything fits together.  
 2. Hosts should read [`HOST_INSTRUCTIONS.md`](./docs/HOST_INSTRUCTIONS.md).  
 3. Moderators should review [`MODERATOR.md`](./docs/MODERATOR.md).  
-4. Import `shs_game.csv` or `FamilyFeudSHS.json` into [Friendly Feud](https://www.famf.app/new).  
+4. Import `FamilyFeudSHS.json` into [Friendly Feud](https://www.famf.app/new).  
 
 When in doubt, the Moderator and Host can check the `QUESTION_ANSWER_REFERENCE.md` to confirm answers and point values.
 

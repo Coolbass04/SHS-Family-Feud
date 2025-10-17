@@ -24,12 +24,17 @@ Guide for the **Moderator** — covers timekeeping, pacing, tracking X’s, judg
 
 Full list of all normal and bonus round questions, answers, and point values used in the SHS Family Feud game. Can be printed as a backup or manual scoring sheet.
 
+### 🖥️ `TECH_SUPPORT.md`
+
+Setup and live-operation guide for the **Tech Support** role — runs the two-window workflow (Game Screen on TV, Host Controls on laptop) and clicks to reveal answers on the Host’s cue.
+
 ---
 
 ## 🖥️ Tech Setup Reminder
 
-* Use **one laptop** connected to a **TV or projector** to display and control the game.
-* The Host runs the Friendly Feud website ([https://www.famf.app](https://www.famf.app)).
+* Use **one laptop** connected to a **TV or projector**.
+* Use **two windows** at [https://www.famf.app](https://www.famf.app): **Game Screen on TV (Open Game Window)** and **Host Controls on the laptop**.
+* **Tech Support operates all clicks**; the **Host focuses on speaking**.
 * Use **egg buzzers** for the buzz-in portion.
 * The Moderator keeps time and supports fairness and pacing.
 

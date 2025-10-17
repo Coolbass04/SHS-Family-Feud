@@ -9,7 +9,7 @@ No tech experience needed — just focus on pacing, fairness, and energy.
 ## 🎯 Your Core Responsibilities
 
 * **Track time** during the Bonus Round (and keep an eye on pacing in normal rounds)
-* **Monitor buzz-ins** — confirm who buzzed first if there’s confusion
+* **Monitor buzz-ins** — confirm who buzzed first if there’s confusion (coordinate with **Tech Support** if it’s unclear)
 * **Count X’s** (wrong answers) and remind the Host when a team reaches 3
 * **Judge close answers** (e.g., “Take a walk” vs “Go for a walk”)
 * **Manage Steals**:
@@ -38,16 +38,18 @@ No tech experience needed — just focus on pacing, fairness, and energy.
 
 ### Normal Rounds
 
-* Confirm the first team that buzzed in
+* Confirm the first team that buzzed in (prompt **Tech Support** to confirm if the display helps)
 * Record each wrong answer (X)
 * If a question is tough, recommend giving a 4th X before switching to steals
 * Confirm if answers are “close enough” to count
+* If the Host cues a reveal and **Tech Support** misses it, prompt Tech Support to click
 * Support the Host in keeping things light and moving along
 
 ### Bonus Round
 
 * Start and stop the timer for each player (20 seconds each)
 * Enforce the “no duplicate answers” rule — if repeated, prompt the Host to ask for a new one
+* **Tech Support** controls reveals at the end of the round
 * Help the Host confirm scoring at the end
 
 ---

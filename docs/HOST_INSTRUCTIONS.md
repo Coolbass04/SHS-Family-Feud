@@ -8,9 +8,9 @@ This is a low-pressure, fun way to connect with your teammates. You don’t need
 
 ## 🎤 What You’re Doing as the Host
 
-You are both the **game leader** and the **game runner.** You will:
+You are the **game leader.** You will:
 
-* Display and control the [Friendly Feud](https://www.famf.app) game on the TV.
+* Do not touch the laptop/TV during gameplay — Tech Support handles all clicking.
 * Read each question out loud.
 * Manage buzz-ins and keep track of which team goes first.
 * Work with the **Moderator** to manage timing, handle judgment calls, and ensure points are tallied.
@@ -20,9 +20,8 @@ You are both the **game leader** and the **game runner.** You will:
 
 ## ⚙️ Setup Before Starting
 
-1. Open [https://www.famf.app](https://www.famf.app) on your laptop.
-2. Load the `shs_game.csv` or `FamilyFeudSHS.json` file.
-3. Connect your laptop to the TV or projector.
+1. Tech Support will open [https://www.famf.app](https://www.famf.app) and load the `FamilyFeudSHS.json` file.
+2. Tech Support will connect the laptop to the TV or projector and set up two windows (TV = Game Screen, Laptop = Host Controls).
 4. Test the **egg buzzers** — make sure they clearly show which team buzzes first.
 5. Have the **Moderator** ready with a timer and printed question sheet.
 
@@ -46,7 +45,7 @@ The first team to buzz gets to answer.
 
 ### 3. Playing the Board
 
-The playing team tries to guess the remaining answers on the board.
+The playing team tries to guess the remaining answers on the board. **Tech Support reveals answers on the TV when you call them.**
 
 * Each wrong answer earns an **X**.
 * Three X’s = turn over.
@@ -62,7 +61,7 @@ After 3 X’s, each of the other teams writes down **one steal guess.**
 
 After the round:
 
-* Reveal any unrevealed answers.
+* Ask Tech Support to reveal any unrevealed answers.
 * **Sara tallies the total points** for that round.
 * Announce which team won the round and the updated totals.
 
@@ -76,7 +75,7 @@ The Bonus Round is faster-paced and can be played at the end.
 2. The **Moderator** starts the timer — 20 seconds per player.
 3. You will ask **5 quick questions** (from the bonus section of the question sheet).
 4. Duplicate answers are **not allowed** — if a player repeats, tell them to try again.
-5. At the end, reveal points for all 5 answers.
+5. At the end, Tech Support reveals points for all 5 answers.
 6. The Moderator or Host tallies totals and announces the winner.
 
 ---
